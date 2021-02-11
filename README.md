@@ -2,9 +2,9 @@
 
 ## Resampling
 
-> Which model had the best balanced accuracy score?
+### Which model had the best balanced accuracy score?
 > The Naive Random Oversampling
-> Which model had the best recall score?
+### Which model had the best recall score?
 > The SMOTE Oversampling
-> Which model had the best geometric mean score?
+### Which model had the best geometric mean score?
 > The SMOTE Oversampling
